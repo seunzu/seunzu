@@ -16,8 +16,8 @@
 
 <h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
-  <a href="https://www.notion.so/Seung-Ju-3494beb1f7784dd099bd0f373a3b1a55"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Tistory&logoColor=white&link=https://blog.naver.com/xodms0202"/></a>&nbsp
-  <a href="mailto:0123Suh@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ptaeeun0202@gmail.com"/></a>
+  <a href="https://www.notion.so/Seung-Ju-3494beb1f7784dd099bd0f373a3b1a55"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Seung-Ju-3494beb1f7784dd099bd0f373a3b1a55"/></a>&nbsp
+  <a href="mailto:0123Suh@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=0123Suh@gmail.com"/></a>&nbsp
 </p>
 <br>
 
