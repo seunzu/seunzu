@@ -24,8 +24,8 @@
 <br>
 
 <h3> Education </h3>
-<p> Seoul Women University </p>
-<p> Software Convergence </p>
+<p> Seoul Women University_Software Convergence </p>
+<br>
 
 <p>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzoo0123&count_bg=%23E73E93&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
