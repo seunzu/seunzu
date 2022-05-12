@@ -6,8 +6,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzoo0123)](https://github.com/zzoo0123/github-readme-stats)
 
 # Skills 🛠
+Techs that I've used at least once
 ### Platforms & Languages
-<p> Techs that I've used at least once </p>
 <p>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/R-75AADB?style=flat-square&logo=R&logoColor=white"/></a>&nbsp 
