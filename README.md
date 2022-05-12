@@ -18,13 +18,14 @@
  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/></a>&nbsp
 <br>
 
+
 # Contacts 📧
 
 <p>
   <a href="https://www.notion.so/Seung-Ju-3494beb1f7784dd099bd0f373a3b1a55"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Seung-Ju-3494beb1f7784dd099bd0f373a3b1a55"/></a>&nbsp
   <a href="mailto:0123suh@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=0123suh@gmail.com"/></a>&nbsp
 </p>
-<br>
+
 
 # Education 📚
 <p> Seoul Women University_Software Convergence </p>
