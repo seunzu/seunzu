@@ -18,6 +18,9 @@ Techs that I've used at least once
  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/></a>&nbsp
 </p>
 
+### Tools
+![Visual Studio](https://://img.shields.io/badge/Visual%20Studio-#5C2D91.svg?$style=for-the-badge&logo=Visual%20Studio&logoColor=white)
+
 # Contacts 📧
 <p>
   <a href="https://www.notion.so/Seung-Ju-3494beb1f7784dd099bd0f373a3b1a55"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Seung-Ju-3494beb1f7784dd099bd0f373a3b1a55"/></a>&nbsp
