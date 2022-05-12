@@ -2,7 +2,7 @@
 
 ![Hits](https://https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzoo0123&count_bg=%23E73E93&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=flase)
 
-![SeungJU's GitHub status][![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzoo0123)](https://github.com/zzoo0123/github-readme-stats)
+[![SeungJu's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzoo0123&theme=dark&show_icons=true)
 
 
 # Skills 🛠
