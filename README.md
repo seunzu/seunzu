@@ -26,7 +26,6 @@ Techs that I've used at least once
 
 # 📧 Contacts 
 [![Gmail Badge](http://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:0123suh@gmail.com)](mailto:0123suh@gmail.com)
-
 [![Notion Badge](http://img.shields.io/badge/Noiton-000000?style=flat-square&logo=Notion&logoColor=white&link=http://www.notion.so/Seung-Ju-3494beb1f7784dd099bd0f373a3b1a55/)](http://www.notion.so/Seung-Ju-3494beb1f7784dd099bd0f373a3b1a55/)
 
 # 📚 Education 
