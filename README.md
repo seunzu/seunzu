@@ -7,8 +7,7 @@
 
 # Skills 🛠
 ### Platforms & Languages
-<p> Techs that I've used at least once </p>
-<p>
+<p> Techs that I've used at least once 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/R-75AADB?style=flat-square&logo=R&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
@@ -16,17 +15,14 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/></a>&nbsp
-<br>
-
+</p>
 
 # Contacts 📧
-
 <p>
   <a href="https://www.notion.so/Seung-Ju-3494beb1f7784dd099bd0f373a3b1a55"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Seung-Ju-3494beb1f7784dd099bd0f373a3b1a55"/></a>&nbsp
   <a href="mailto:0123suh@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=0123suh@gmail.com"/></a>&nbsp
 </p>
 
-
 # Education 📚
 <p> Seoul Women University_Software Convergence </p>
-<br>
+
