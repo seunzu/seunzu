@@ -18,7 +18,7 @@
  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/></a>&nbsp
 <br>
 
-<h3> 🧸 Me 🧸 </h3>
+# Contacts 📧
 
 <p>
   <a href="https://www.notion.so/Seung-Ju-3494beb1f7784dd099bd0f373a3b1a55"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Seung-Ju-3494beb1f7784dd099bd0f373a3b1a55"/></a>&nbsp
@@ -26,6 +26,6 @@
 </p>
 <br>
 
-<h3> Education </h3>
+# Education 📚
 <p> Seoul Women University_Software Convergence </p>
 <br>
