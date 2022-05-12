@@ -20,6 +20,9 @@ Techs that I've used at least once
 
 ### Tools
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?$style=for-the-badge&logo=Visual%20Studio&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB.svg?$style=for-the-badge&logo=Xcode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?$style=for-the-badge&logo=Android%20Studio&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?$style=for-the-badge&logo=Unity&logoColor=white)
 
 # Contacts 📧
 <p>
