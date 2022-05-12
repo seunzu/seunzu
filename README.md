@@ -29,6 +29,7 @@ Techs that I've used at least once
   <a href="https://www.notion.so/Seung-Ju-3494beb1f7784dd099bd0f373a3b1a55"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Seung-Ju-3494beb1f7784dd099bd0f373a3b1a55"/></a>&nbsp
 </p>
 [![Gmial Badge](http://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:0123suh@gmail.com)](mailto:0123suh@gmail.com)
+
 [![Notion Badge](http://img.shields.io/badge/Noiton-d14836?style=flat-square&logo=Notion&logoColor=white&link=http://www.notion.so/Seung-Ju-3494beb1f7784dd099bd0f373a3b1a55/)](http://www.notion.so/Seung-Ju-3494beb1f7784dd099bd0f373a3b1a55/)
 
 # Education 📚
