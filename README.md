@@ -17,6 +17,8 @@ Techs that I've used at least once
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/></a>&nbsp
 </p>
+
+![Java](https://img.shields.io/badge/Java-007396.svg?$style=for-the-badge&logo=Java#&logoColor=white)
 ![C#](https://img.shields.io/badge/C#-E34F26.svg?$style=for-the-badge&logo=C#&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?$style=for-the-badge&logo=HTML5&logoColor=white)
 
