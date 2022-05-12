@@ -19,7 +19,7 @@ Techs that I've used at least once
 </p>
 
 ### Tools
-![Visual Studio](https://://img.shields.io/badge/Visual%20Studio-#5C2D91.svg?$style=for-the-badge&logo=Visual%20Studio&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-#5C2D91.svg?$style=for-the-badge&logo=Visual%20Studio&logoColor=white)
 
 # Contacts 📧
 <p>
