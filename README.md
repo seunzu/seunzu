@@ -5,7 +5,7 @@
 ![SeungJu's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzoo0123&theme=dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzoo0123)](https://github.com/zzoo0123/github-readme-stats)
 
-# Skills 🛠
+# 🛠 Skills 
 Techs that I've used at least once
 ### Platforms & Languages
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?$style=for-the-badge&logo=Python&logoColor=white)
@@ -24,14 +24,11 @@ Techs that I've used at least once
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?$style=for-the-badge&logo=Android%20Studio&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?$style=for-the-badge&logo=Unity&logoColor=white)
 
-# Contacts 📧
-<p>
-  <a href="https://www.notion.so/Seung-Ju-3494beb1f7784dd099bd0f373a3b1a55"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Seung-Ju-3494beb1f7784dd099bd0f373a3b1a55"/></a>&nbsp
-</p>
+# 📧 Contacts 
 [![Gmail Badge](http://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:0123suh@gmail.com)](mailto:0123suh@gmail.com)
 
 [![Notion Badge](http://img.shields.io/badge/Noiton-000000?style=flat-square&logo=Notion&logoColor=white&link=http://www.notion.so/Seung-Ju-3494beb1f7784dd099bd0f373a3b1a55/)](http://www.notion.so/Seung-Ju-3494beb1f7784dd099bd0f373a3b1a55/)
 
-# Education 📚
-<p> Seoul Women University_Software Convergence </p>
+# 📚 Education 
+Seoul Women University_Software Convergence
 
