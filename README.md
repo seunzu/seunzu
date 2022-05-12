@@ -17,7 +17,8 @@ Techs that I've used at least once
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/></a>&nbsp
 </p>
-![HTML5](https://img.shields.io/badge/Html5-E34F26.svg?$style=for-the-badge&logo=html5&logoColor=white)
+![C#](https://img.shields.io/badge/C#-E34F26.svg?$style=for-the-badge&logo=C#&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?$style=for-the-badge&logo=HTML5&logoColor=white)
 
 ### Tools
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?$style=for-the-badge&logo=Visual%20Studio&logoColor=white)
