@@ -3,7 +3,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzoo0123&count_bg=%23F560A5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![SeungJu's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzoo0123&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzoo0123)](https://github.com/zzoo0123/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzoo0123)(https://github.com/zzoo0123/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzoo0123)
 
 # 🛠 Skills 
 Techs that I've used at least once
