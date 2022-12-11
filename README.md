@@ -5,6 +5,8 @@
 ![SeungJu's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzoo0123&theme=dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzoo0123)](https://github.com/zzoo0123/github-readme-stats)
 
+# 📚 Education 
+Seoul Women University_Software Convergence
 
 # 🛠 Skills 
 Techs that I've used at least once
@@ -31,6 +33,5 @@ Techs that I've used at least once
 [![Notion Badge](http://img.shields.io/badge/Noiton-000000?style=flat-square&logo=Notion&logoColor=white&link=http://www.notion.so/Seung-Ju-3494beb1f7784dd099bd0f373a3b1a55/)](http://www.notion.so/Seung-Ju-3494beb1f7784dd099bd0f373a3b1a55/)
 
 
-# 📚 Education 
-Seoul Women University_Software Convergence
+# Link
 
