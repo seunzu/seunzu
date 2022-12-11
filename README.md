@@ -34,8 +34,8 @@ Techs that I've used at least once
 
 
 # 🔗 Link
-Youtube
+### Youtube
 https://www.youtube.com/channel/UCrX4UvglqRP7XO5y60Prl8Q
-Tistory
+#### Tistory
 https://debug.tistory.com
 
