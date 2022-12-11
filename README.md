@@ -39,4 +39,7 @@ https://www.youtube.com/channel/UCrX4UvglqRP7XO5y60Prl8Q
 https://debug.tistory.com
 ### Notion
 https://www.notion.so/zzoo0123/Seung-Ju-3494beb1f7784dd099bd0f373a3b1a55
-
+### Instagram
+https://www.instagram.com/__seunzu/
+### LinkedIn
+https://www.linkedin.com/in/zzoo0123/
