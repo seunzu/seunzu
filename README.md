@@ -33,5 +33,9 @@ Techs that I've used at least once
 [![Notion Badge](http://img.shields.io/badge/Noiton-000000?style=flat-square&logo=Notion&logoColor=white&link=http://www.notion.so/Seung-Ju-3494beb1f7784dd099bd0f373a3b1a55/)](http://www.notion.so/Seung-Ju-3494beb1f7784dd099bd0f373a3b1a55/)
 
 
-# Link
+# 🔗 Link
+Youtube
+https://www.youtube.com/channel/UCrX4UvglqRP7XO5y60Prl8Q
+Tistory
+https://debug.tistory.com
 
