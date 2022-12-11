@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=SuhSeungJu&fontSize=70&animation=twinkling)
 
+# 📧 Contacts 
+[![Gmail Badge](http://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:0123suh@gmail.com)](mailto:0123suh@gmail.com)
+[![Notion Badge](http://img.shields.io/badge/Noiton-000000?style=flat-square&logo=Notion&logoColor=white&link=http://www.notion.so/Seung-Ju-3494beb1f7784dd099bd0f373a3b1a55/)](http://www.notion.so/Seung-Ju-3494beb1f7784dd099bd0f373a3b1a55/)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzoo0123&count_bg=%23F560A5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![SeungJu's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzoo0123&theme=dark&show_icons=true)
@@ -28,14 +32,11 @@ Techs that I've used at least once
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?$style=for-the-badge&logo=Unity&logoColor=white)
 
 
-# 📧 Contacts 
-[![Gmail Badge](http://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:0123suh@gmail.com)](mailto:0123suh@gmail.com)
-[![Notion Badge](http://img.shields.io/badge/Noiton-000000?style=flat-square&logo=Notion&logoColor=white&link=http://www.notion.so/Seung-Ju-3494beb1f7784dd099bd0f373a3b1a55/)](http://www.notion.so/Seung-Ju-3494beb1f7784dd099bd0f373a3b1a55/)
-
-
 # 🔗 Link
 ### Youtube
 https://www.youtube.com/channel/UCrX4UvglqRP7XO5y60Prl8Q
-#### Tistory
+### Tistory
 https://debug.tistory.com
+### Notion
+https://www.notion.so/zzoo0123/Seung-Ju-3494beb1f7784dd099bd0f373a3b1a55
 
