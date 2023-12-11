@@ -1,9 +1,15 @@
+<div align="center">
+ 
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=150&section=header&text=SuhSeungJu&fontSize=70&animation=twinkling)
+
+<br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzoo0123&count_bg=%23F560A5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![SeungJu's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzoo0123&theme=dark&show_icons=true)
- 
+
+<br>
+
 # 📧 Contacts 
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:0123suh@gmail.com">
@@ -60,5 +66,5 @@ Techs that I've used at least once
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
     </div><br>
 </div>
-
+</div>
 
