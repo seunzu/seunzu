@@ -1,45 +1,64 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=SuhSeungJu&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=150&section=header&text=SuhSeungJu&fontSize=70&animation=twinkling)
 
-# 📧 Contacts 
-[![Gmail Badge](http://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:0123suh@gmail.com)](mailto:0123suh@gmail.com)
-[![Notion Badge](http://img.shields.io/badge/Noiton-000000?style=flat-square&logo=Notion&logoColor=white&link=http://www.notion.so/Seung-Ju-3494beb1f7784dd099bd0f373a3b1a55/)](http://www.notion.so/Seung-Ju-3494beb1f7784dd099bd0f373a3b1a55/)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzoo0123&count_bg=%23F560A5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzoo0123&count_bg=%23F560A5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![SeungJu's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzoo0123&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzoo0123)](https://github.com/zzoo0123/github-readme-stats)
-
-# 📚 Education 
-Seoul Women University_Software Convergence
+ 
+# 📧 Contacts 
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:0123suh@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+    <a href="https://open.kakao.com/o/zzoo0123">
+        <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
+    </a>
+    <a href="https://www.instagram.com/__seunzu">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    </a>
+</div><br>
 
 # 🛠 Skills 
 Techs that I've used at least once
-### Platforms & Languages
-![Python](https://img.shields.io/badge/Python-3776AB.svg?$style=for-the-badge&logo=Python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3.svg?$style=for-the-badge&logo=R&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396.svg?$style=for-the-badge&logo=Java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?$style=for-the-badge&logo=Kotlin&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C.svg?$style=for-the-badge&logo=C++&logoColor=white)
-![C#](https://img.shields.io/badge/C%20Sharp-239120.svg?$style=for-the-badge&logo=C%20Sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?$style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?$style=for-the-badge&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?$style=for-the-badge&logo=JavaScript&logoColor=white)
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
+    <!-- Backend -->
+    <p><strong>Backend</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
+    </div>
+    <!-- Database -->
+    <p><strong>Database</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
+        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+        <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+    </div>
+    <!-- Server -->
+    <p><strong>Server</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+        <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
+        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
+    </div>
+    <!-- Frontend -->
+    <p><strong>Frontend</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
+        <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
+        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift=&logoColor=white"/>
+    </div>
+    <!-- Dev Tools -->
+    <div>
+        <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>
+        <img src="https://img.shields.io/badge/intellij IDEA-000000?style=flat-square&logo=intellij IDEA=&logoColor=white"/>
+    </div
+    <!-- Others -->
+    <p><strong>Others</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
+    </div><br>
+</div>
 
-### Tools
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?$style=for-the-badge&logo=Visual%20Studio&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB.svg?$style=for-the-badge&logo=Xcode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?$style=for-the-badge&logo=Android%20Studio&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?$style=for-the-badge&logo=Unity&logoColor=white)
 
-
-# 🔗 Link
-### Youtube
-https://www.youtube.com/channel/UCrX4UvglqRP7XO5y60Prl8Q
-### Tistory
-https://debug.tistory.com
-### Notion
-https://www.notion.so/zzoo0123/Seung-Ju-3494beb1f7784dd099bd0f373a3b1a55
-### Instagram
-https://www.instagram.com/__seunzu/
-### LinkedIn
-https://www.linkedin.com/in/zzoo0123/
