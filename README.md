@@ -1,6 +1,7 @@
 <div align="center">
  
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=150&section=header&text=SuhSeungJu&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=150&section=header&text=SeungJu&fontSize=70&animation=twinkling)
+### A passionate backend developer who is not afraid of new challenges and always eager to grow.
 
 <br>
 
@@ -31,7 +32,7 @@
 
 <hr />
 
-## 🛠 Skills 
+## 🛠 Technology Stack 
 Techs that I've used at least once
 <br />
 
@@ -71,7 +72,7 @@ Techs that I've used at least once
 </div>
 <hr />
 
-## Certifications
+## ✨ Certifications
 <div align="left">
 <ul>
   <li>SQL Developer (SQLD, SQL 개발자) | Korea Data Agency | 47th Exam | 2022.12.02</li>
@@ -81,7 +82,7 @@ Techs that I've used at least once
 </ul>
 </div>
 
-## Awards
+## 🏆 Awards
 <div align="left">
 <ul>
   <li>Bronze Prize | Graduation Project | Seoul Women’s University | 2023.12  
@@ -97,7 +98,7 @@ Techs that I've used at least once
 </ul>
 </div>
 
-## Publications
+## 📓 Publications
 <div align="left">
 <ul>
   <li>2023년도 한국멀티미디어학회 추계학술발표대회 논문집 | Vol. 26, No. 2  
@@ -109,7 +110,7 @@ Techs that I've used at least once
 </ul>
 </div>
 
-## Language Proficiency
+## 😝 Language Proficiency
 <div align="left">
 <ul>
   <li>OPiC IM3</li>
@@ -117,7 +118,7 @@ Techs that I've used at least once
 </div>
 <hr />
 
-## Experiences
+## 🖤 Experiences
 <div align="left">
 <ul>
   <li>코테이토(Cotato)
