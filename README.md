@@ -10,68 +10,129 @@
 
 <br>
 
-<br>
+# 📧 Contact & Channel
 
-# 📧 Contacts 
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:0123suh@gmail.com"
+<div style="display:flex; justify-content: center; gap: 10px;">
+    <a href="mailto:0123suh@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
-    <a href="https://open.kakao.com/o/zzoo0123">
+    <a href="https://open.kakao.com/zzoo0123">
         <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
     </a>
     <a href="https://www.instagram.com/__seunzu">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
-</div><br>
+    <a href="https://debug.tistory.com/">
+        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+    </a>
+</div>
+</div>
+<br>
 
-# 🛠 Skills 
+<hr />
+
+## 🛠 Skills 
 Techs that I've used at least once
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <!-- Backend -->
-    <p><strong>Backend</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"> 
-    </div>
-    <!-- Database -->
-    <p><strong>Database</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-        <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
-    </div>
-    <!-- Server -->
-    <p><strong>Server</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black"> 
-        <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
-        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">    
-    </div>
-    <!-- Frontend -->
-    <p><strong>Frontend</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"> 
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"> 
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"> 
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
-    </div>
-    <!-- Dev Tools -->
-    <p><strong>Dev Tools</p>
-    <div>
-        <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>
-        <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
-    </div
-    <!-- Others -->
-    <p><strong>Others</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> 
-    </div><br>
+<br />
+
+### Backend
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=Node.js&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black"> 
+    <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
+    <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=amazon RDS&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=amazon S3&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=Github Actions&logoColor=white"> 
 </div>
+<br />
+
+### Frontend
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Create React App-09D3AC?style=for-the-badge&logo=Create React App&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/>
+</div>
+<br />
+
+### Dev Tools
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white"/>
+</div>
+<hr />
+
+## Certifications
+<div align="left">
+<ul>
+  <li>SQL Developer (SQLD, SQL 개발자) | Korea Data Agency | 47th Exam | 2022.12.02</li>
+  <li>Data Analytics Semi-Professional (ADsP, 데이터분석준전문가) | Korea Data Agency | 39th Exam | 2023.11.17</li>
+  <li>Information Processing Engineer(정보처리기사) | Korea Human Resources Development Service | 2024.06.18</li>
+  <li>Big Data Analyst(빅데이터분석기사) | Korea Data Agency | 8th Exam | 2024.07.12</li>
+</ul>
 </div>
 
+## Awards
+<div align="left">
+<ul>
+  <li>Bronze Prize | Graduation Project | Seoul Women’s University | 2023.12  
+   <ul>
+     <li>Ingredient-based sanitary pad recommendation service for visually impaired women (swugether)</li>
+   </ul>
+  </li>
+  <li>Grand Prize | KDT 한국경제신문 with toss bank | 2024.09  
+   <ul>
+     <li>Bitcoin as the representative cryptocurrency + Metrics as a measure of performance</li>
+   </ul>
+  </li>
+</ul>
+</div>
+
+## Publications
+<div align="left">
+<ul>
+  <li>2023년도 한국멀티미디어학회 추계학술발표대회 논문집 | Vol. 26, No. 2  
+    <ul>
+      <li>Ingredient-based sanitary pad recommendation service for visually impaired women
+       <br/>(여성 시각 장애인 대상 성분 기반 생리대 추천 서비스)</li>
+    </ul>
+  </li>
+</ul>
+</div>
+
+## Language Proficiency
+<div align="left">
+<ul>
+  <li>OPiC IM3</li>
+</ul>
+</div>
+<hr />
+
+## Experiences
+<div align="left">
+<ul>
+  <li>코테이토(Cotato)
+    <ul>
+      <li>4th 운영지원팀 | Backend Developer | 2022.09 ~ 12</li>
+      <li>5th 기획팀장 | Backend Developer | 2023.01 ~ 02</li>
+      <li>6th ~ 7th 회장 | Backend Developer | 2023.02 ~ 06</li>
+    </ul>
+  </li>
+ <li>이플(E-PLE)  
+    <ul>
+      <li>Newspaper Analysis, Corporate Analysis(오리온) | 2022.03 ~ 2022.05</li>
+      <li>Newspaper Analysis, Mock Conference(2022.09) | 2022.09 ~ 2022.11</li>
+      <li>Newspaper Analysis, Corporate Analysis(아모레퍼시픽) | 2023.03 ~ 2023.05</li>
+    </ul>
+  </li>
+</ul>
+</div>
