@@ -114,7 +114,7 @@ Techs that I've used at least once
 ## 😝 Language Proficiency
 <div align="left">
 <ul>
-  <li>OPiC IM3</li>
+  <li>OPIc IM3</li>
 </ul>
 </div>
 <hr />
